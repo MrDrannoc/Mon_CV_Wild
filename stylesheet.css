@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+body {
+  background-color: rgb(104, 187, 285);
+}
+li {
+  list-style: none;
+}
+
+#left-box {
+  float: left;
+  background-color: rgb(9, 30, 45);
+  color: white;
+  width: 49%;
+  height: 669px;
+}
+
+#left-box * {
+  margin: 3%;
+}
+
+#right-box {
+  margin-left: 51%;
+  height: 669px
+}
+#experiences-box {
+  background-color: white
+}
+#studies-box {
+  background-color: white
+}
+
+.titre {
+  text-align: center;
+}
+
+.study {
+  margin: 3%;
+}
+
+.experience {
+  margin: 3%;
+}
