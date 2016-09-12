@@ -13,7 +13,6 @@ li {
   background-color: rgb(9, 30, 45);
   color: white;
   width: 49%;
-  height: 669px;
 }
 
 #left-box * {
@@ -22,7 +21,6 @@ li {
 
 #right-box {
   margin-left: 51%;
-  height: 669px
 }
 #experiences-box {
   background-color: white
